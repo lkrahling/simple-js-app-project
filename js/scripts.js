@@ -1,3 +1,5 @@
+// Array to store Pokemon data objects 
+
 let pokemonList = [
     {
         name: "Bulbasaur", 
